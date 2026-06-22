@@ -27,7 +27,7 @@ This project demonstrates how to use a push button to toggle the state of an LED
 
 ## Project Images
 
-[Click here to check out the project images](images/toggle_1.jpg)
+![Click here to check out the project images](images/toggle_1.jpg)
 
 ## Project Demo video
 
